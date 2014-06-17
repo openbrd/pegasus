@@ -1,5 +1,5 @@
-G04 CAM350 V9.5.1 (Build 211) Date:  Mon Jun 16 19:21:36 2014 *
-G04 Database: e:\a\pegasus.cam *
+G04 CAM350 V9.5.1 (Build 211) Date:  Tue Jun 17 06:58:37 2014 *
+G04 Database: E:\a\pegasus.cam *
 G04 Layer 12: SoldmaskBottom. *
 %FSLAX55Y55*%
 %MOIN*%
@@ -466,7 +466,4 @@ Y51860D03*
 G54D127*
 X119960Y182480D03*
 X151260D03*
-G54D140*
-X-104020Y-6930D03*
-X-103910Y-14630D03*
 M02*
